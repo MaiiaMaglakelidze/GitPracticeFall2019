@@ -5,5 +5,6 @@ public class AnotherSampleClass {
         for (int i = 0; i <= 10; i++) {
             System.out.println("Capture i = " + i);
         }
+        System.out.println("Modifying file");
     }
 }
